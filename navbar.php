@@ -60,7 +60,7 @@
                         <?php else: ?>
                             <li><a class="dropdown-item text-wrap" href="login_student.php">สำหรับนิสิต</a></li>
                             <li><a class="dropdown-item text-wrap" href="approval_system/login.php">สำหรับอาจารย์</a></li>
-                            <li><a class="dropdown-item text-wrap" href="BackEnd/login.php">สำหรับแอดมิน</a></li>
+                            <li><a class="dropdown-item text-wrap" href="login.php">สำหรับแอดมิน</a></li>
                         <?php endif; ?>
                     </ul>
                 </div>
